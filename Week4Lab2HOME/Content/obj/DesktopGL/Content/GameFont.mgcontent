@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/samuelcolvillerea/Library/Mobile Documents/com~apple~CloudDocs/OneDrive - Institute of Technology Sligo/Y2 Semester 1/2D Game/GP01Week4Lab2HOME/Week4Lab2HOME/Content/GameFont.spritefont</SourceFile>
+  <SourceTime>2018-10-10T15:46:13.113195+01:00</SourceTime>
+  <DestFile>/Users/samuelcolvillerea/Library/Mobile Documents/com~apple~CloudDocs/OneDrive - Institute of Technology Sligo/Y2 Semester 1/2D Game/GP01Week4Lab2HOME/Week4Lab2HOME/Content/bin/DesktopGL/Content/GameFont.xnb</DestFile>
+  <DestTime>2018-10-10T16:13:52.018998+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-23T22:56:40+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-23T22:56:40+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
