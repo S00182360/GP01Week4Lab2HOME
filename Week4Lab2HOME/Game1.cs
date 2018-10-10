@@ -54,8 +54,8 @@ namespace Week4Lab2HOME.Desktop
                 (int)(originalViewPort.Bounds.Width * scale), //scale is 0.1 above to scale up/down
                 (int)(originalViewPort.Bounds.Height * scale)); //
             mapViewport2.Bounds = new Rectangle(0, 0,
-                (int)(originalViewPort.Bounds.Width * scale), //scale is 0.1 above to scale up/down
-                (int)(originalViewPort.Bounds.Height * scale)); //
+                                                (int)(originalViewPort.Bounds.Width * scale), //scale is 0.1 above to scale up/down
+                                                (int)(originalViewPort.Bounds.Height *scale)); //
             mapViewport.X = 0;
             mapViewport.Y = 0;
 
